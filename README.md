@@ -4,6 +4,5 @@
 <img width="46%" src="https://github-readme-stats.vercel.app/api?username=kwxos">
 <!-- GitHub 语言占比 -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwxos&layout=compact&hide_border=true"/> -->
-
-<!-- 统计 -->
-<center><img src="https://activity-graph.herokuapp.com/graph?username=kwxos&bg_color=ffffff&color=5194f0&line=5194f0&point=fb8c01&area=true&hide_border=true"/></center>
+<!-- 大数字显示访客数量 -->
+<!-- ![Visitor Count](https://profile-counter.glitch.me/kwxos/count.svg) -->
