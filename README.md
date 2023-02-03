@@ -4,4 +4,5 @@
 <img width="46%" src="https://github-readme-stats.vercel.app/api?username=kwxos">
 <!-- GitHub 语言占比 -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwxos&layout=compact&hide_border=true"/>
-![Visitor Count](https://profile-counter.glitch.me/kwxos/count.svg)
+
+<img align="right" width="46%" src="https://profile-counter.glitch.me/kwxos/count.svg"/>
