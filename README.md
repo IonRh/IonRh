@@ -4,7 +4,7 @@
 
 - 🍻 Junior at 🇨🇳 带专, _BSc in Computer Science_
 - ⚡ 网络运维 / Python.
-- 🖋 Writer at [sspai](https://blog.kwxos.top)
+- 🖋 Writer at [kwxos](https://blog.kwxos.top)
 - ✍️ [Blogger](https://blog.kwxos.top)
 - 🏃 Sailing / Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling
 - 🥋 Boxing / Tai Chi
