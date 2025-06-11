@@ -1,4 +1,15 @@
-# Hi there 👨‍💻 我是 IonRh
+
+
+<div align="center">
+  
+*"代码可以改变世界，我来改变代码"*
+
+**感谢访问我的 GitHub！如果我的项目对你有帮助，欢迎 ⭐ Star 支持**
+
+</div>
+---
+
+# Hi there 👨‍💻 我是 IonRh ![Visitor Count](https://komarev.com/ghpvc/?username=IonRh&color=blueviolet&style=flat-square)
 
 > *专注于技术探索与创新实践的开发者*
 
@@ -27,21 +38,9 @@
 欢迎交流技术问题或合作机会：
 
 - 📧 Email: [likwxos@gmail.com]
-- 🌐 Blog: [blog.loadke.tech]
+- 🌐 Blog: [https://blog.loadke.tech]
 - 💼 Portfolio: [作品集链接]
 
 ## 🏆 技能图标
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,golang,mysql,python,git,docker,linux,vscode&theme=dark)](https://skillicons.dev)
-
----
-
-<div align="center">
-  
-*"代码改变世界，创新驱动未来"*
-
-**感谢访问我的 GitHub！如果我的项目对你有帮助，欢迎 ⭐ Star 支持**
-
-![Visitor Count](https://komarev.com/ghpvc/?username=IonRh&color=blueviolet&style=flat-square)
-
-</div>
