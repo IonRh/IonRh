@@ -23,13 +23,11 @@
 
 ## 📊 GitHub 统计
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IonRh&show_icons=true&theme=tokyonight&hide_border=true)
+| 主面板   | 推送样式 |
+|--------|------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IonRh&show_icons=true&theme=tokyonight&hide_border=true)   |  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IonRh&layout=compact&theme=tokyonight&hide_border=true)
+  |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IonRh&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ## 🎯 当前专注
 
