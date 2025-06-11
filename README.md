@@ -8,13 +8,9 @@
 
 ---
 
-# Hi there 👨‍💻 我是 IonRh ![Visitor Count](https://komarev.com/ghpvc/?username=IonRh&color=blueviolet&style=flat-square)
+# 👋 你好，我是 IonRh ，我正在疯狂学习中... ![Visitor Count](https://komarev.com/ghpvc/?username=IonRh&color=blueviolet&style=flat-square)
 
 > *专注于技术探索与创新实践的开发者*
-
-## 💫 关于我
-
-我是一名热爱技术的开发者，专注于现代 计算机技术的学习与实践。喜欢探索新技术，致力于创建更方便快捷的世界，并乐于分享技术心得。
 
 ## 🛠️ 技术栈
 
@@ -23,13 +19,6 @@
 **后端 & 数据库** ：`Python` `Golang` `Shell` `Django` `MySQL` `SQL server` `SQLite`
 
 **开发工具** ：`Git` `Docker` `Linux` `Nginx` `VS Code` `Pycharm` `Yarn/NPM`
-
-
-### 🌱 我正在学习
-
-- Vue 3
-- Node.js 前后端
-- 各种框架等
 
 ## 💬 联系方式
 
@@ -41,4 +30,4 @@
 
 ## 🏆 技能图标
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,python,golang,bash,django,mysql,sqlite,git,docker,linux,nginx,vscode,pycharm,yarn,npm&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?perline=20&i=js,html,css,vue,python,golang,bash,django,mysql,sqlite,git,docker,linux,nginx,vscode,pycharm,yarn,npm&theme=dark)](https://skillicons.dev)
