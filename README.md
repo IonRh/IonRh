@@ -1,16 +1,10 @@
-<div align="center">
-  
-*"代码可以改变世界，我来改变代码"*
 
-**感谢访问我的 GitHub！如果我的项目对你有帮助，欢迎 ⭐ Star 支持**
-
-</div>
-
----
 
 # 👋 你好，我是 IonRh ，我正在疯狂学习中... ![Visitor Count](https://komarev.com/ghpvc/?username=IonRh&color=blueviolet&style=flat-square)
 
-> *专注于技术探索与创新实践的开发者*
+> *"代码可以改变世界，我来改变代码"*
+
+**感谢访问我的 GitHub！如果我的项目对你有帮助，欢迎 ⭐ Star 支持**
 
 ## 🛠️ 技术栈
 
