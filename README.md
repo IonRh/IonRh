@@ -24,4 +24,4 @@
 
 ### 🏆 技能图标
 
-[![My Skills](https://skillicons.dev/icons?perline=20&i=python,golang,bash,django,mysql,sqlite,js,html,css,vue,git,docker,linux,nginx,vscode,pycharm,yarn,npm&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?perline=20&theme=light&i=python,golang,bash,django,mysql,sqlite,js,html,css,vue,git,docker,linux,nginx,vscode,pycharm,yarn,npm&theme=dark)](https://skillicons.dev)
