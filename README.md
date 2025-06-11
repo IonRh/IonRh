@@ -8,25 +8,11 @@
 
 ## 🛠️ 技术栈
 
-**前端技术**
-- `JavaScript` `TypeScript` `HTML5` `CSS3`
-- `Vue.js` `React` `Node.js`
-- `Webpack` `Vite` `Tailwind CSS`
+**前端技术** ：`JavaScript` `TypeScript` `HTML5` `CSS3` `Vue.js`
 
-**后端 & 数据库**
-- `Node.js` `Express` `PHP`
-- `MySQL` `MongoDB` `SQLite`
+**后端 & 数据库** ： `Django` `MySQL` `SQL server` `SQLite`
 
-**开发工具**
-- `Git` `Docker` `Linux` `Nginx`
-- `VS Code` `Postman` `Yarn/NPM`
-
-## 📊 GitHub 统计
-
-| 主面板   | 推送样式 |
-|--------|------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IonRh&show_icons=true&theme=tokyonight&hide_border=true)   |  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IonRh&layout=compact&theme=tokyonight&hide_border=true)
-  |
+**开发工具** ：`Git` `Docker` `Linux` `Nginx` `VS Code` `Pycharm` `Yarn/NPM`
 
 
 ## 🎯 当前专注
