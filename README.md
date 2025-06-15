@@ -20,7 +20,7 @@
 
 - 📧 Email: [联系邮箱](likwxos@gmail.com)
 - 🌐 Blog: [个人博客](https://blog.loadke.tech)
-- 💼 Portfolio: [作品集链接](https://api.loadke.tech)
+- 💼 Portfolio: [作品集链接](https://home.loadke.tech)
 
 ### 🏆 技能图标
 
