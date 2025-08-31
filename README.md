@@ -8,7 +8,7 @@
 
 ### 🛠️ 技术栈
 
-**前端技术** ：`JavaScript` `HTML5` `CSS3` `Vue.js`
+**前端技术** ：`JavaScript` `HTML5` `CSS3` `Vue.js` `next.js`
 
 **后端 & 数据库** ：`Python` `Golang` `Shell` `Django` `MySQL` `SQL server` `SQLite`
 
